@@ -1,11 +1,11 @@
 en:
   application:
-    name: Untitled Application
+    name: Global Development Commons
     owner: Unidentified Developer
     description: "You can update this description in `config/locales/en/application.en.yml`."
-    keywords: untitled application seo keywords
+    keywords: global development commons seo keywords
     support_email: change.me@localhost
-    key: untitled_application
+    key: global_development_commons
   webhooks/outgoing/endpoints:
     fields:
       api_version:
